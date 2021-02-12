@@ -16,3 +16,12 @@ z= var (a,0,'all')
 p=std(a)
 q=std(a')
 r=std(a,0,'all')
+
+%SUM
+m=sum(a)
+n=sum(a')
+
+%Percentile
+i=prctile(a,50) %50percent of the values
+
+
