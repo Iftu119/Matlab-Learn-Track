@@ -1,4 +1,4 @@
-%Variance and Standard Deviation
+%Variance | Standard Deviation | Sum | Percentile
 
 
 a = [1 6 7 ; 4 5 6 ; 1 8 6 ];
