@@ -11,5 +11,5 @@ c=diag(X,-1) %Diagonal elements from 1 Row lower
 A=[1 26 76 55 ]
 
 x=diag(A) %Diagonal matrix from row matrix/vector
-y=diag(A,1)%Diagonal matrix from 1 Col right
-z=diag(A,-1)%Diagonal matrix from 1 Row lower
+y=diag(A,1)
+z=diag(A,-1)
