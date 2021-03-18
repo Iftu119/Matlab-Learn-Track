@@ -2,7 +2,7 @@
 
 syms x y
 
-%IIndefinite
+%Indefinite
 p = 5*x^2 +y*y - 7*x*y
 q =int(p)%Default int wrt x
 r =int(p,y)%int wrt y
