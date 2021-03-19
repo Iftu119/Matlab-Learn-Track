@@ -5,6 +5,7 @@ c = 1:10:100
 d = 100:-10:-50
 
 
+
 % Use of colon operator
     
     %X-axis from 0 to 2pi
