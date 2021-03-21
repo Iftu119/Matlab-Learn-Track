@@ -1,10 +1,14 @@
-%Relational Operation in Matrix Part-1
+%Relational Operation in Matrix (Part-1)
 
 X = [1:5 ; 6:10 ; 11:15 ; 16:20 ; 10:3 :24]
 
 %Greater than
+a=gt(X,9)
+a1=X>6
+
+%Greater or Equal
 a=ge(X,9)
-b=X>=6
+a1=X>=6
 
 %To show the 'greater or equal' elements 
 Y = X(ge(X,15))
@@ -20,3 +24,5 @@ p1=A>=B
 q=ge(B,A)
 q1=B>=A
 
+% Similarly 'lt' for less than
+% Similarly 'le' for less than or equal
