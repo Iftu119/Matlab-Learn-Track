@@ -10,5 +10,5 @@ All the files for Matlab Learn series will be available in this repository. The 
 * Machine Learning
 ---
 ⭐ Credit : <br>
-# Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
+### Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
 ----
