@@ -5,9 +5,10 @@ All the files for Matlab Learn series will be available in this repository. The 
 * Matrix
 * Mathematical Operations
 * Data Visualization
+* Conditional Operation
+* Working with Data sets
 * Machine Learning
-* Data Processing
 ---
-⭐ Credit :
-Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
+⭐ Credit : <br>
+# Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
 ----
