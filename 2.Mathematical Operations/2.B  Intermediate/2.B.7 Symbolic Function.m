@@ -1,4 +1,4 @@
-%Equation Solve (Part-3)
+%Equation Solve (Part-4)
 syms x y z
 
 %Symbolic Function
