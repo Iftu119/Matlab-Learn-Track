@@ -1,6 +1,6 @@
 # Matlab Learn Track
 ![Matlab Tutorial TM ; Designed by J Zidan](Assets/Slide15.PNG)
-All the files for Matlab Learn series will be available in this repository. 
+All the files for Matlab Learn series will be available in this repository. <br>
 🎥 Find the videos available on [Youtube](https://studio.youtube.com/channel/UCw5o4rX6wTnihDhWIq-MkIw)
 
 ### :scroll: Topics to be covered
@@ -12,5 +12,5 @@ All the files for Matlab Learn series will be available in this repository.
 * Machine Learning
 ---
 ⭐ Credit : <br>
-Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
+#### Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
 ----
