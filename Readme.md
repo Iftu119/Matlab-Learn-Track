@@ -1,8 +1,10 @@
 # Matlab Learn Track
 ![Matlab Tutorial TM ; Designed by J Zidan](Assets/Slide15.PNG)
-All the files for Matlab Learn series will be available in this repository. The files will be separated in different branches later 
+All the files for Matlab Learn series will be available in this repository. 
+🎥 Find the videos available on [Youtube](#)
+
 ### :scroll: Topics to be covered
-* Matrix
+* Matrix [Jubair Zidan](https://www.behance.net/jubairzidan99)
 * Mathematical Operations
 * Data Visualization
 * Conditional Operation
