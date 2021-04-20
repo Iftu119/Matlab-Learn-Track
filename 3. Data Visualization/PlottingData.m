@@ -1,14 +1,19 @@
-X = [ 1 2 6  3 8 7 ]
-Y = [ 7 6 6  3 5 7 ]
-% plot(X,Y)
-% plot(x);
-% plot(y);
 
 
-plot(X,Y,'-sr')
-% plot(X1,Y1,...,Xn,Yn)
-% plot(X1,Y1,LineSpec1,...,Xn,Yn,LineSpecn)
-% plot(Y)
-% plot(Y,LineSpec)
-% plot(___,Name,Value)
-% plot(ax,___)
+X = [ 8 7 6  2 2 3 ]
+Y = [ 7 6 1  3 5 7 ]
+A= [ 1 :3:20 ];
+B = [ 7 6 5 1 3 13 5 ];
+
+% figure
+% plot(A,B,'-or')
+% xlabel('Over')
+% ylabel('Run')
+% title ('Match-5 | Run vs Over')
+% grid on
+
+plot(X,Y)
+axis ([ 0 10 0 10])
+% plot(X,Y,SPECIFICATION)
+%SPECIFICATION : Line, Marker, Color
+
