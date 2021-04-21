@@ -3,12 +3,14 @@
 a = input ('Enter Id '); %Default Input Type in Number
 b = input ('Enter Name ','s');
 
+disp ('Hello there!')
+disp (b) 
+disp ('I know your ID number') 
 disp (a) 
-disp ('Hello there!') 
 
 %% EXAMPLE
 
 x = input('Enter your birth year ');
 y= (2021- x);
-Age = ['Congratulations! Your age is ', num2str(y),' in 2021'];
+Age = ['Congratulations! Your age is ', num2str(y) ,' in 2021'];
 disp(Age)
