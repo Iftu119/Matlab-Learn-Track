@@ -17,9 +17,3 @@ grid on
 legend ('Team B' , 'Team C')
 axis([0 20 0 20 ])
 text ( 4 , 16 , 'Highest Run in an over')
-
-
-
-
-
-
