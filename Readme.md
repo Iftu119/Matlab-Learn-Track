@@ -4,6 +4,7 @@ All the files for Matlab Learn series will be available in this repository. <br>
 🎥 Find the videos available on [Youtube](https://www.youtube.com/playlist?list=PLZFNStB2gWcFqqNk8KSL69mY5y4Hl7g5Q)
 
 ### :scroll: Topics to be covered
+* Getting Started
 * [Matrix](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/1.Handling%20Matrix)
 * [Mathematical Operations](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/2.Mathematical%20Operations)
 * [Data Visualization](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/3.%20Data%20Visualization)
@@ -11,8 +12,8 @@ All the files for Matlab Learn series will be available in this repository. <br>
 * Working with Data sets
 * Machine Learning
 
-⚠️ <pre>The file names here does not comply with Matlab standards. They need to be renamed before used in your machine.
+⚠️ <p>The file names here does not comply with Matlab standards. They need to be renamed before used in your machine.</p>
 ---
 ⭐ Credit : <br>
-#### Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)
+<p>Thumbnail Designed by [Jubair Zidan](https://www.behance.net/jubairzidan99)</p>
 ----
