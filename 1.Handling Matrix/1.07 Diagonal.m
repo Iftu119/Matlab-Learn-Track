@@ -1,4 +1,5 @@
 % Diagonal Elements | Diagonal Matrix
+% Video Link : https://youtu.be/BMGrhUKxuoM
 
 %Finding Diagonal Elements
 X = [1:5 ; 6:10 ; 11:15 ; 16:20 ; 10:3 :24]
