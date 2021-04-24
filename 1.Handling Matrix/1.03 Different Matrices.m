@@ -1,4 +1,6 @@
-%Different Types of Matrix
+% Handling Matrix
+%Different Types of Matrices
+%Video LInk : https://youtu.be/Qmov7aydloE
 
 %Zero Matrix
 a=zeros(3)
