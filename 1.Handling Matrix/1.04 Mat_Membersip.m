@@ -1,4 +1,5 @@
-%Membership
+% Membership
+% Video Link : https://youtu.be/LnLIY27K2Vs
 
 A=[1 3 9 ; 4 8 9 ; 2 2 3];
 
