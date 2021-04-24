@@ -1,4 +1,5 @@
 % Inverse | Determinant
+% Video Link : https://youtu.be/Y_9MQnoDMKw
 
 X = [1:2:5 ; 2:4 ; 1 3 4]
 
