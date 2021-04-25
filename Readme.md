@@ -1,4 +1,6 @@
 # Matlab Learn Track
+[![first-timers-only](https://img.shields.io/badge/first--timers-friendly-ff69b4)](https://www.firsttimersonly.com/)
+[![first-timers-only](https://img.shields.io/badge/Matlab-Tutorial-blue)](https://www.firsttimersonly.com/)
 ![Matlab Tutorial TM ; Designed by J Zidan](Assets/Slide15.PNG)
 All the files for Matlab Learn series will be available in this repository. <br>
 🎥 Find the videos available on [Youtube](https://www.youtube.com/playlist?list=PLZFNStB2gWcFqqNk8KSL69mY5y4Hl7g5Q)
