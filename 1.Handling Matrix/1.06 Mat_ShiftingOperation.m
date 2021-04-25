@@ -1,4 +1,5 @@
 %Shifting Operation
+% Video Link : https://youtu.be/DxmSsPoD82E
 
 X = [1:5 ; 6:10 ; 11:15 ; 16:20]
 
