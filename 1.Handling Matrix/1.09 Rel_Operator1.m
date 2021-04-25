@@ -1,4 +1,5 @@
 %Relational Operation in Matrix (Part-1)
+% Video Link : https://youtu.be/gb56fXdSNIQ
 
 X = [1:5 ; 6:10 ; 11:15 ; 16:20 ; 10:3 :24]
 
