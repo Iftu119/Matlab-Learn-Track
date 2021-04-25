@@ -1,4 +1,5 @@
-%Finding Non-Zero Elements
+% Finding Non-Zero Elements
+% Video : https://youtu.be/VPLm_ZHKFqo
 
 X = [11 0 29 ; 0 51 16 ; 22 19 0]
 
