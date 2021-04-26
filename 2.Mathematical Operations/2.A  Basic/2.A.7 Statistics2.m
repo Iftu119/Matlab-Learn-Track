@@ -1,5 +1,7 @@
 % MEAN | MEDIAN | MODE
 % The code syntax is almost same for these 3
+%Video : https://youtu.be/Rc6b0b17nKE
+
 A = [1 6 7 ; 4 5 6 ; 1 8 6 ]
 M = mean(A)
 Med = median(A);

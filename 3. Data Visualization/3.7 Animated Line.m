@@ -1,5 +1,6 @@
 % Data Visualization
 % Animated Plot
+%Video : https://youtu.be/eKeiYCeDHl8
 
 figure
 v = animatedline('Linewidth',1,'Color','red')

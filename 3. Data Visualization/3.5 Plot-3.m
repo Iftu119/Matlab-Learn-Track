@@ -1,5 +1,6 @@
 %Data Visualization
 %Plotting Data
+%Video : https://youtu.be/mT_XN79S2Wk
 
 A = [ 1 :3:20 ]
 B = [ 7 6 5 1 3 13 5 ]

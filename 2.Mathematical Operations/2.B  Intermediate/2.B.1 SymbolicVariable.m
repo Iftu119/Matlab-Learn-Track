@@ -1,9 +1,15 @@
-%Symbolic Variable
-% NEEDS a LOT OF WORK IN COMMAND AREA
+% Symbolic Variable
+% Video : https://youtu.be/EvKf9MrRq-4
+
+%Most of it are done in Command WIndow
+
 U = sym('m')
 M=5*9+6-2
 V = sym('M1')
 M1 = m*2 +5*m
+
+%% Command Window
+
 % m=4
 % M
 % Y = sym('a',[1 7])

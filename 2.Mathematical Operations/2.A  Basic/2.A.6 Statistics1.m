@@ -1,4 +1,5 @@
 %Maximum Minimum
+%Video : https://youtu.be/HBesqrqOCDQ
 
 a= [1 2 7 ; 4 3 6 ; 7 8 9 ]
 

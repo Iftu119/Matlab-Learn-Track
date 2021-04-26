@@ -1,4 +1,5 @@
 %Equation Solve (Part-4)
+%Video : https://youtu.be/oktP28am0CU
 syms x y z
 
 %Symbolic Function

@@ -1,4 +1,5 @@
 %Absolute Function and Signum Function
+%Video : https://youtu.be/tKu-NJfHy_s
 
 %abs
 X = [25 -9 0]

@@ -1,4 +1,5 @@
 %Input and Output (Part-1) | input, disp
+%Video Link : https://youtu.be/XKx96Vs0n6o
 
 a = input ('Enter Id '); %Default Input Type in Number
 b = input ('Enter Name ','s');

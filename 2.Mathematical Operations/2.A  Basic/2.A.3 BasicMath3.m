@@ -1,5 +1,6 @@
 %GCD LCM Factor Product Permutation Prime Number
-%
+% Video : https://youtu.be/df3PuWzDYy8
+
 %GCD for any 2 numbers
 a = gcd(15,25)
 

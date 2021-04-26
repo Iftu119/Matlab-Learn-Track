@@ -1,4 +1,6 @@
 %Basic Maths
+%Video : https://youtu.be/CMtK8qgSZtU
+
 %Usual +,-,*,/ are same here in matlab while we have only a number assigned
 %to a varibale i.e. 1x1 Matrix
 

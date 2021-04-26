@@ -1,4 +1,5 @@
 %Logical Operation : AND | OR | NOT
+%Video : https://youtu.be/jrJDNGFTkmU
 
 a = [1 0 1]
 b = [0 0 1]
@@ -6,6 +7,7 @@ x = and(a,b)
 p = a & b 
 
 %Logical operation considers Non-Zero values as True (1)
+
 aa = [1 5 1]
 bb = [1 0 9]
 xx = and (aa,bb)

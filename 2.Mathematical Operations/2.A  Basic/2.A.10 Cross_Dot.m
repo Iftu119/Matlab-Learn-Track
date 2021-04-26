@@ -1,4 +1,5 @@
 % Dot and Cross Product
+% Video : https://youtu.be/DaBrYUtpee8
 
 
 A = [1 2 3 ];

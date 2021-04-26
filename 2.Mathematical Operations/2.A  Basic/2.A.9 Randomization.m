@@ -1,4 +1,5 @@
 %Randomization
+%Video : https://youtu.be/WGPEjnPzDqs
 
 a=rand (3) %Random 3*3 Matrix
 b=rand (3,2) %Random 3*2 Matrix

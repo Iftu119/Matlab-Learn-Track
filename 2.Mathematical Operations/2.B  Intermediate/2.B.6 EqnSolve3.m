@@ -1,4 +1,5 @@
 %Equation Solve (Part-3)
+%Video : https://youtu.be/l98xoXa6GYg
 syms x y z
 
 %Substitution

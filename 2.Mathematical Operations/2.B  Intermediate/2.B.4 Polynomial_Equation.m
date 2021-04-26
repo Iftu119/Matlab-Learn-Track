@@ -1,4 +1,5 @@
-%Equation Solve (Part-1)
+%Equation Solve (Part-1) | Polynomial
+%Video : https://youtu.be/vATGAl_oPGI
 
 syms x y z
 

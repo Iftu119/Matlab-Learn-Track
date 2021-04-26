@@ -1,3 +1,7 @@
+%Remainder and Modulus
+%Video : https://youtu.be/nGZM5yhuLYM
+
+
 %Remainder after division (modulo operation)
 %mod takes sign of divisor with floor rounding
 a= mod(12,-5)	

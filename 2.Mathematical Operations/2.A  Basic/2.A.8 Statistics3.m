@@ -1,5 +1,5 @@
 %Variance | Standard Deviation | Sum | Percentile
-
+%Video : https://youtu.be/KuAz01A1Jp8
 
 a = [1 6 7 ; 4 5 6 ; 1 8 6 ];
 x = var (a)
