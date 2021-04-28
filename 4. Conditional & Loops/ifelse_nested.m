@@ -8,10 +8,11 @@ if Score >= Cutoff
     if Score >= 90 
         disp ('Top tier')
     
-    else if Score >= 70
+    elseif Score >= 70
             disp ('Middle Tier')
+    else disp ('Low Tier')
     end
-        end
+        
  else
     disp ('Fail')
 end
