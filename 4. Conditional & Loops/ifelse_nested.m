@@ -1,4 +1,6 @@
 %% Nested If-else Statement
+clc
+clear all
 
 Score=input('Enter Score ')
 Cutoff=50;
