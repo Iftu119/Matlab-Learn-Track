@@ -1,0 +1,13 @@
+%% Factorial with while loop
+clc
+clear all
+
+n = 20;
+p = n;
+f = n;
+while n > 1
+    n = n-1;
+    f = f*n;
+end
+
+fprintf('\n Factorial of %d = %d ',p, f )

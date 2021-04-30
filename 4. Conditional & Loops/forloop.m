@@ -1,7 +1,14 @@
-disp ('Total Marks Scored by all the Students in Exam')
+%Conditionals and Loooping
+%For Loop
+clc
+clear all
 
-for i=1:10
-    fprintf ('Enter the Total marks of student %d :\t',i)
-    Roll(i) = input (' ');
+disp('Enter the number of students')
+student = input(' ');
+for i=1:student
+    fprintf ('Enter the marks of student %d : \n',i)
+    marks(i) = input (' '); 
 end
-Total = sum(Roll)
+
+fprintf (' \n Total marks by class = %d \n',sum(marks) )
+

@@ -1,15 +1,31 @@
 %% Continue
+
+clc
+clear all
+
 p=input('Enter a number : ')
-for i=p:p+10
+
+for i = p : (p+10)
     fprintf ('Number : %d \n',i)
     if (mod(i,12)==0)
         disp ('Fail : This is divisible by 12.')
     continue
-    end 
+    end
     disp ('Successful')
 end
 
-disp ('Continue demonstrated')
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 %% Example - Data of Students
@@ -24,7 +40,7 @@ for i=1:a
     c=input(' ', 's');
 
     if c == 'N'
-        disp ('Avoided')
+        disp ('Skipped')
     continue
     end 
     marks = input ('Enter his score :');
