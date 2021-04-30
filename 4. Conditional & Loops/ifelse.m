@@ -10,14 +10,6 @@ else disp ('Fail')
 end
 
 
-
-
-
-
-
-
-
-
 %% Nested If-else Statement
 clc
 clear all
