@@ -1,4 +1,6 @@
 %% Factorial with while loop
+% There are many easy ways to calculate Factorial
+% Still we used while loop for factorial just to demonstrate While Loop
 clc
 clear all
 
