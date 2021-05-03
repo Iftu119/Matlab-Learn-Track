@@ -1,5 +1,5 @@
 ﻿# Matlab Learn Track
-[![first-timers-only](https://img.shields.io/badge/first--timers-friendly-ff69b4)](https://www.firsttimersonly.com/)
+[![first-timers-only](https://img.shields.io/badge/First--timers-Friendly-ff69b4)](https://www.firsttimersonly.com/)
 [![first-timers-only](https://img.shields.io/badge/Matlab-Tutorial-blue)](https://www.firsttimersonly.com/)
 ![Matlab Tutorial TM ; Designed by J Zidan](Assets/TM.PNG)
 <br>
