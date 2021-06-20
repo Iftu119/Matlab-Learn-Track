@@ -8,13 +8,14 @@ All the files for Matlab Learn series will be available in this repository. <br>
 
 ### :scroll: Topics to be covered
 * Chapter 0 : Getting Started
-* Chapter 1 : Matrix | [Code](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/1.Handling%20Matrix)
-* Chapter 2 : Mathematical Operations | [Code](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/2.Mathematical%20Operations)
-* Chapter 3 : Data Visualization | [Code](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/3.%20Data%20Visualization)
-* Conditional Operation
+* Chapter 1 : [Matrix](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/1.Handling%20Matrix)
+* Chapter 2 : [Mathematical Operations](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/2.Mathematical%20Operations)
+* Chapter 3 : [Data Visualization](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/3.%20Data%20Visualization)
+* Chapter 4 : [Conditional Operation](https://github.com/Iftu119/Matlab-Learn-Track/tree/main/4.%20Conditionals%20%26%20Loops)
+* Chapter 5 : Machine Learning (In Progress)
 * Simulink
 * Working with Data sets
-* Machine Learning
+
 
 ⚠️ The file names here do not comply with Matlab standards.They need to be renamed before use.
 
